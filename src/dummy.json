@@ -1,0 +1,748 @@
+{
+  "about": {
+    "name": "Leul Chanie",
+    "title": "Software Developer",
+    "subTitle": "I build mobile and web applications that deliver seamless experiences.",
+    "description": "Hello! I'm Leul Chanie, a Software Developer specializing in Next.js, React, Django, and Flutter. With three years of experience in React and a strong foundation in JavaScript, I'm currently expanding my expertise in TypeScript. I build scalable, user-friendly applications that solve real-world problems.",
+    "quote": "Live the Life as you want",
+    "exp_year": "3",
+    "address": "Addis Ababa , Ethiopia",
+    "some_total": "90",
+    "phoneNumber": "+251-921-524-559",
+    "contactEmail": "leulchanie576@gmail.com",
+    "avatar": {
+      "_id:": "676e772d8a9e1d0a8b0647ca",
+      "url": "/images/pro.png"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "portfolio3/1713996156944-1hro1b.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713996156944-1hro1b.webp"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "portfolio3",
+  "email": "leulchanie576@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "StartupX",
+      "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
+      "sequence": 6,
+      "startDate": "2023-11-13T00:00:00.000Z",
+      "endDate": "2024-03-13T00:00:00.000Z",
+      "jobTitle": "Backend Developer",
+      "jobLocation": " Los Angeles, CA",
+      "bulletPoints": [
+        "Developed scalable backend services using Python and Django framework.",
+        "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
+        "\nDesigned and optimized database schemas for performance and scalability.",
+        "\nImplemented real-time messaging features using WebSockets and Redis.",
+        "\nWorked closely with frontend developers to design APIs and ensure smooth integration with the frontend."
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fe900556c3f887e9db94"
+    },
+    {
+      "company_name": "CloudTech Innovations",
+      "summary": "Played a key backend role in building a full-stack web platform for IT infrastructure management.",
+      "sequence": 4,
+      "startDate": "2023-10-01T00:00:00.000Z",
+      "endDate": "2024-03-01T00:00:00.000Z",
+      "jobTitle": "Backend Developer",
+      "jobLocation": "Cape Town, South Africa",
+      "bulletPoints": [
+        "Developed scalable RESTful APIs using Django and Django REST Framework.",
+        "Integrated React frontend components with Django-based backend endpoints.",
+        "Implemented user authentication, role-based access, and token management.",
+        "Optimized database models and queries to improve system performance.",
+        "Collaborated with frontend developers and designers to align on API contracts and UX requirements."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe4e0556c3f887e9db22"
+    },
+    {
+      "company_name": "São Digital Solutions Co.",
+      "summary": "Developed immersive and responsive frontend features for a digital product platform using modern React-based tools.",
+      "sequence": 3,
+      "startDate": "2024-03-02T00:00:00.000Z",
+      "endDate": "2024-07-01T00:00:00.000Z",
+      "jobTitle": "Frontend Developer",
+      "jobLocation": "São Paulo, Brazil",
+      "bulletPoints": [
+        "Built dynamic, SEO-friendly pages with Next.js and React.",
+        "Implemented fluid animations and micro-interactions using GSAP and Framer Motion.",
+        "Collaborated closely with UI/UX designers to translate designs into high-quality code.",
+        "Optimized application performance and accessibility for diverse devices.",
+        "Created reusable components and maintained consistent design systems across the app."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fe1e0556c3f887e9dab2"
+    },
+
+    {
+      "company_name": "DataTech Solutions",
+      "summary": "Played a key role in developing a data analytics platform for a diverse range of clients.",
+      "sequence": 2,
+      "startDate": "2024-03-13T00:00:00.000Z",
+      "endDate": "2024-03-22T00:00:00.000Z",
+      "jobTitle": " Full Stack Developer",
+      "jobLocation": " New York, NY",
+      "bulletPoints": [
+        "Developed RESTful APIs and integrated third-party services to ingest and process large volumes of data.",
+        "\nDesigned and implemented responsive user interfaces using React.js and Bootstrap.",
+        "\nWorked closely with data scientists to integrate machine learning models into the platform.",
+        "\nOptimized database queries and improved overall system performance.",
+        "\nConducted unit tests and participated in peer code reviews to ensure code quality.\n"
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65f1fdef0556c3f887e9da44"
+    },
+    {
+      "company_name": "Tech Innovations Inc.",
+      "summary": "Worked as a full-stack developer building scalable web applications using Django REST Framework, Next.js, Prisma, and both MongoDB and PostgreSQL in a hybrid architecture.",
+      "sequence": 1,
+      "icon": {
+        "public_id": "portfolio3/1710357917833-0mic4.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357917833-0mic4.png"
+      },
+      "startDate": "2024-01-03T00:00:00.000Z",
+      "endDate": "2024-03-28T00:00:00.000Z",
+      "jobTitle": "Full-Stack Developer",
+      "jobLocation": "Addis Ababa, Ethiopia",
+      "bulletPoints": [
+        "Developed RESTful APIs using Django REST Framework and integrated them with modern frontend interfaces.",
+        "Built dynamic and SEO-friendly pages using Next.js and React.",
+        "Used Prisma ORM with both PostgreSQL and MongoDB for flexible and efficient data management.",
+        "Designed database schemas and optimized queries for performance and scalability.",
+        "Collaborated across cross-functional teams to deliver production-ready features on time."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fd9e0556c3f887e9d9d8"
+    },
+    {
+      "company_name": "ThePortfolyo",
+      "summary": "",
+      "sequence": 1,
+      "icon": {
+        "public_id": "1706289470834-siro83",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706289470834-siro83"
+      },
+      "startDate": "2023-12-13T00:00:00.000Z",
+      "endDate": "2024-01-25T00:00:00.000Z",
+      "jobTitle": "Software Developer",
+      "jobLocation": "Bangalore",
+      "bulletPoints": [
+        "Design and build full website",
+        " Optimized Site ",
+        " SEO implemented"
+      ],
+      "forEducation": true,
+      "enabled": true,
+      "_id": "65b3e93feb20546ae6d46369"
+    }
+  ],
+  "myskills": [
+    {
+      "SkillTitle": "Frontend Development",
+      "TechStack": "Next.js, React, JavaScript (ES6+), TypeScript (learning), Tailwind CSS, Redux",
+      "Strength": [
+        "Creating scalable and high-performance UIs",
+        "Responsive & accessible web designs",
+        "Optimizing frontend performance for speed and efficiency",
+        "Implementing state management with Redux and React Context",
+        "Ensuring seamless cross-browser compatibility"
+      ]
+    },
+    {
+      "SkillTitle": "Backend Development",
+      "TechStack": "Django, Django REST Framework, PostgreSQL, Prisma, MongoDb,MYsql",
+      "Strength": [
+        "Building scalable and secure APIs",
+        "Database design & optimization",
+        "Handling authentication & user management",
+        "Integrating third-party services and APIs",
+        "Ensuring data integrity and security"
+      ]
+    },
+    {
+      "SkillTitle": "Mobile App Development",
+      "TechStack": "Flutter, Dart, Firebase, RESTful APIs",
+      "Strength": [
+        "Building cross-platform mobile apps",
+        "Smooth animations & UI/UX in Flutter",
+        "State management with Provider & Riverpod",
+        "Optimizing mobile app performance and responsiveness",
+        "Integrating backend services with Firebase and REST APIs"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "enabled": true,
+      "name": "C++",
+      "sequence": 17,
+      "percentage": 87,
+      "image": {
+        "public_id": "1706288734207-4rlz3m",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
+        "_id": "65b3e661b48589dfcae187f8"
+      },
+      "_id": "65b3e661b48589dfcae187f7"
+    },
+    {
+      "enabled": true,
+      "name": "Python",
+      "sequence": 16,
+      "percentage": 86,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s",
+        "_id": "65b3e645b48589dfcae187a3"
+      },
+      "_id": "65b3e645b48589dfcae187a2"
+    },
+
+    {
+      "enabled": true,
+      "name": "TypeScript",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706287104739-pm8en",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706287104739-pm8en",
+        "_id": "65b3e001b48589dfcae18246"
+      },
+      "_id": "65b3e001b48589dfcae18245"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 7,
+      "percentage": 92,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4",
+        "_id": "65b3df8fb48589dfcae18205"
+      },
+      "_id": "65b3df8fb48589dfcae18204"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 13,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9",
+        "_id": "65b3df76b48589dfcae181c6"
+      },
+      "_id": "65b3df76b48589dfcae181c5"
+    },
+
+    {
+      "enabled": true,
+      "name": "Redux",
+      "sequence": 7,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286913147-nwiky8",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286913147-nwiky8",
+        "_id": "65b3df41b48589dfcae1814e"
+      },
+      "_id": "65b3df41b48589dfcae1814d"
+    },
+    {
+      "enabled": true,
+      "name": "Javascript",
+      "sequence": 3,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706288679775-y4qwn3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288679775-y4qwn3",
+        "_id": "65b3e628b48589dfcae18750"
+      },
+      "_id": "65b3df24b48589dfcae18114"
+    },
+    {
+      "enabled": true,
+      "name": "Git",
+      "sequence": 12,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286842731-r0eyn",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286842731-r0eyn",
+        "_id": "65b3defbb48589dfcae180de"
+      },
+      "_id": "65b3defbb48589dfcae180dd"
+    },
+    {
+      "enabled": true,
+      "name": "Github",
+      "sequence": 11,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706286821409-21cuqs",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286821409-21cuqs",
+        "_id": "65b3dee5b48589dfcae180a9"
+      },
+      "_id": "65b3dee5b48589dfcae180a8"
+    },
+
+    {
+      "enabled": true,
+      "name": "Vercel",
+      "sequence": 7,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286729467-rbblgb",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286729467-rbblgb",
+        "_id": "65b3de89b48589dfcae18016"
+      },
+      "_id": "65b3de89b48589dfcae18015"
+    },
+    {
+      "enabled": true,
+      "name": "Next.js",
+      "sequence": 6,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286682511-rgp96r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r",
+        "_id": "65b3de5bb48589dfcae17fe9"
+      },
+      "_id": "65b3de5bb48589dfcae17fe8"
+    },
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 5,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09",
+        "_id": "65b3f27aeb20546ae6d49e76"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Tailwind",
+      "sequence": 4,
+      "percentage": 99,
+      "image": {
+        "public_id": "1706286616701-2jka3q",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286616701-2jka3q",
+        "_id": "65b3de19b48589dfcae17f95"
+      },
+      "_id": "65b3de19b48589dfcae17f94"
+    },
+    {
+      "enabled": true,
+      "name": "CSS",
+      "sequence": 2,
+      "percentage": 97,
+      "image": {
+        "public_id": "1706286273084-romle",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286273084-romle"
+      },
+      "_id": "65b3dcc1b48589dfcae17e4d"
+    },
+    {
+      "name": "HTML",
+      "sequence": 1,
+      "percentage": 98,
+      "image": {
+        "public_id": "1706286058630-v3ax0a",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286058630-v3ax0a"
+      },
+      "_id": "65b3dbeba5c8d2db7b6164bc",
+      "enabled": true
+    }
+  ],
+  "youtube": [
+    {
+      "url": "",
+      "title": "Sample Video",
+      "sequence": 1,
+      "image": null,
+      "embedId": "eitWM4gNZoM",
+      "enabled": true,
+      "_id": "65f482e5d689e5777d9457ae"
+    }
+  ],
+  "projects": [
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Urban Build",
+      "sequence": 14,
+      "image": {
+        "public_id": "1706285511679-xe7r9t",
+        "url": "/images/project/urban.png"
+      },
+      "description": "This project is built entirely with Next.js and React, ensuring fast performance and smooth navigation .Tailwind CSS is used for responsive, modern styling across devices.Interactive elements like animations and accordions are powered by Framer Motion and ShadCN UI components ",
+      "techStack": ["Reactjs ", " Nextjs ", " Framer", " TailwindCSS"],
+      "_id": "65b3d9c8d017f6b49c778ca7",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://superlative-mandazi-550fd6.netlify.app/",
+      "githuburl": "https://github.com/Leulc21/Adwa",
+      "title": "Adwa",
+      "sequence": 15,
+      "image": {
+        "public_id": "1706285468702-igx05q",
+        "url": "/images/project/adwa.png"
+      },
+      "description": "A culturally-inspired graphic design project that fuses the iconic symbol of Adwa with modern AI artistry and fluid web animations. Built with HTML, CSS, and JavaScript, and powered by Vite for lightning-fast development. ",
+      "techStack": ["HTML ", " GSAP "],
+      "_id": "65b3d99dd017f6b49c778c86",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://learnify-fawn-omega.vercel.app/",
+      "githuburl": "https://github.com/Leulc21/Learnify",
+      "title": "Learnify",
+      "sequence": 13,
+      "image": {
+        "public_id": "1706285431821-3lfg2r",
+        "url": "/images/project/learnify.png"
+      },
+      "description": "Learnify is a modern frontend for an online learning platform, built with React.js, styled using TailwindCSS, and enhanced with smooth, engaging transitions via Framer Motion. It delivers a responsive, accessible, and interactive user experience optimized for learners on all devices. ",
+      "techStack": ["Reactjs ", " Framer ", " TailwindCSS"],
+      "_id": "65b3d978d017f6b49c778c67",
+      "enabled": true
+    },
+    {
+      "liveurl": "https://youtu.be/UUn8XzesDsU",
+      "githuburl": "#",
+      "title": "ET-Driving Quiz App",
+      "sequence": 12,
+      "image": {
+        "public_id": "1706285416017-wra7swm",
+        "url": "/images/project/mob.png"
+      },
+      "description": "ET-Driving Quiz App is a mobile application built with Flutter that helps users in Ethiopia prepare for their driving license exams. The app offers a user-friendly interface with localized content, practice quizzes, and educational resources aligned with Ethiopian driving regulations. ",
+      "techStack": ["Flutter"],
+      "_id": "65b3d969d017f6b49c778c4a",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "https://github.com/Leulc21/InjoyBurger",
+      "title": "Injoy Burger",
+      "sequence": 11,
+      "image": {
+        "public_id": "1706285405228-98liol",
+        "url": "/images/project/burger.png"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["HTML"],
+      "_id": "65b3d95dd017f6b49c778c2f",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Luda-Art",
+      "sequence": 10,
+      "image": {
+        "public_id": "1706285393568-zl9mcc",
+        "url": "/images/project/art.png"
+      },
+      "description": "Luda-Art is a visually engaging single-page web application built with HTML, CSS, JavaScript, and GSAP (GreenSock Animation Platform). The primary focus of this project is to demonstrate advanced scroll-based animations, providing a smooth and interactive user experience. ",
+      "techStack": ["HTML", " GSAP "],
+      "_id": "65b3d952d017f6b49c778c16",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 9",
+      "sequence": 9,
+      "image": {
+        "public_id": "1706285378965-91vbk",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285378965-91vbk"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs "],
+      "_id": "65b3d943d017f6b49c778bff",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 8",
+      "sequence": 8,
+      "image": {
+        "public_id": "1706285368529-zdr5fl",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285368529-zdr5fl"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs  "],
+      "_id": "65b3d938d017f6b49c778bea",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 7",
+      "sequence": 7,
+      "image": {
+        "public_id": "1706285357884-3ja6sw",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285357884-3ja6sw"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs   "],
+      "_id": "65b3d92ed017f6b49c778bd7",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 6",
+      "sequence": 6,
+      "image": {
+        "public_id": "1706285347449-dniw0h",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285347449-dniw0h"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": [" Nextjs "],
+      "_id": "65b3d923d017f6b49c778bc6",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 5",
+      "sequence": 5,
+      "image": {
+        "public_id": "1706285323287-nt3ya3",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285323287-nt3ya3"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs "],
+      "_id": "65b3d8fed017f6b49c778ba9",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 4",
+      "sequence": 4,
+      "image": {
+        "public_id": "1706284852474-gh2ng",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284852474-gh2ng"
+      },
+      "description": "lorem ipsumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs "],
+      "_id": "65b3d734313a9b09a24a14a3",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 3",
+      "sequence": 3,
+      "image": {
+        "public_id": "1706284839761-ckccdj",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284839761-ckccdj"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs "],
+      "_id": "65b3d728313a9b09a24a1498",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 2",
+      "sequence": 2,
+      "image": {
+        "public_id": "1706284824843-56iakg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284824843-56iakg"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs ", " TailwindCSS"],
+      "_id": "65b3d719313a9b09a24a148f",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Project 1",
+      "sequence": 1,
+      "image": {
+        "public_id": "1706284812399-jr7rqj",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284812399-jr7rqj"
+      },
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+      "techStack": ["Reactjs ", " Nextjs "],
+      "_id": "65b3d70d313a9b09a24a1488",
+      "enabled": true
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/leulch21?igsh=ejQ3OXRrMjE0NWxx",
+      "image": {
+        "public_id": "1708718250873-3038n7.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+      },
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/leul-chanie-7b10ba260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "image": {
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+      },
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Twitter",
+      "url": "https://x.com/Leulc21?s=09",
+      "image": {
+        "public_id": "1708718328750-d4jsq.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+      },
+      "_id": "65b3e47cb48589dfcae185bd"
+    },
+    {
+      "enabled": true,
+      "platform": "Tellegram",
+      "url": "https://t.me/LeulC21",
+      "image": {
+        "public_id": "1708718346601-xldm.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+      },
+      "_id": "65b3e43cb48589dfcae1856c"
+    }
+  ],
+  "services": [
+    {
+      "name": "Mobile App Development",
+      "charge": "",
+      "desc": "I craft intuitive, high-performance mobile applications that elevate your brand and keep users engaged on the go. From concept to interface, I deliver smooth, scalable solutions tailored to your needs.",
+      "enabled": true,
+      "_id": "65f1fd690556c3f887e9d94a",
+      "image": {
+        "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+      }
+    },
+    {
+      "name": "Web App Development",
+      "charge": "",
+      "desc": "I build custom web applications tailored to your business goals fast, scalable, and user-focused. From landing pages to complex dashboards, I turn ideas into interactive, real-world solutions.",
+      "image": {
+        "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
+        "url": "/images/project/adwa.png"
+      },
+      "enabled": true,
+      "_id": "65f1fd100556c3f887e9d87b"
+    },
+    {
+      "name": "UI/UX Solutions",
+      "charge": "",
+      "desc": "I design modern, intuitive interfaces that balance aesthetics with usability. Every interaction is crafted to drive engagement and ensure a seamless user experience.",
+      "image": {
+        "public_id": "1706290914024-725ytf",
+        "url": "/images/project/urban.png",
+        "_id": "65b3eee8eb20546ae6d467fe"
+      },
+      "_id": "65b3e33db48589dfcae1851d",
+      "enabled": true
+    },
+    {
+      "name": "Web Animation ",
+      "charge": "",
+      "desc": "I bring interfaces to life with smooth animations and reusable components. Using GSAP, Framer Motion, and modern JavaScript, I build interactive frontends that captivate and perform.",
+      "image": {
+        "public_id": "portfolio3/1710357668346-ke8kgt.jpeg",
+        "url": "/images/project/anim.png"
+      },
+      "_id": "65b3e322b48589dfcae184d0",
+      "enabled": true
+    }
+  ],
+
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "portfolio3/1710357726628-c4dr18.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+      },
+      "name": "Ephrem Adane",
+      "review": "I had the pleasure of collaborating with Leul on several full-stack and front-end projects in Addis Ababa. His deep understanding of technologies like React, Next.js, and Django REST was pivotal to the success of our projects. His passion for clean code and innovative design made him an indispensable part of our team.",
+      "position": "Tech Lead, Addis Software Hub",
+      "enabled": true,
+      "_id": "65f1fcdf0556c3f887e9d74c"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357705657-aimydg.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357705657-aimydg.png"
+      },
+      "name": "David Rodriguez",
+      "review": "Leul consistently impressed us with his expertise in React, Next.js, and Prisma. His seamless integration of backend and frontend technologies created smooth, high-performance applications. His ability to work under pressure while maintaining clear communication made him an invaluable team member.",
+      "position": "Project Manager",
+      "enabled": true,
+      "_id": "65f1fcca0556c3f887e9d6e8"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357683739-tqeav.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357683739-tqeav.png"
+      },
+      "name": "Emily Chen",
+      "review": "Leul brought an exceptional level of professionalism and creativity to the table. Whether it was developing dynamic React components or ensuring smooth user interactions with Next.js, his work always exceeded expectations. His collaboration and openness to feedback made him a great team player.",
+      "position": "UX/UI Designer",
+      "enabled": true,
+      "_id": "65f1fcb30556c3f887e9d662"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357647030-pi5cis.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357647030-pi5cis.png"
+      },
+      "name": "Michael Lee",
+      "review": "Leul is a versatile developer who contributed significantly to both front-end and back-end aspects of our projects. His skills in React, Next.js, and Django REST frameworks were essential for building scalable and efficient solutions. His keen attention to detail and problem-solving ability is highly commendable.",
+      "position": "Lead Developer",
+      "enabled": true,
+      "_id": "65f1fc8f0556c3f887e9d4e5"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Sarah Johnson",
+      "review": "Leul's work on both the backend with Django and frontend using React was crucial to the project’s success. His ability to merge functionality with design, ensuring both usability and performance, sets him apart. He always goes the extra mile to make sure everything runs smoothly. Highly recommended for full-stack development.",
+      "position": "Product Manager",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31d"
+    }
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}

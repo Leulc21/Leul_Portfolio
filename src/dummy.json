@@ -404,7 +404,7 @@
       "sequence": 15,
       "image": {
         "public_id": "1706285468702-igx05q",
-        "url": "/images/project/adwa.png"
+        "url": "/images/project/Adwa.png"
       },
       "description": "A culturally-inspired graphic design project that fuses the iconic symbol of Adwa with modern AI artistry and fluid web animations. Built with HTML, CSS, and JavaScript, and powered by Vite for lightning-fast development. ",
       "techStack": ["HTML ", " GSAP "],

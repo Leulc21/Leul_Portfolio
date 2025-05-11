@@ -418,7 +418,7 @@
       "sequence": 13,
       "image": {
         "public_id": "1706285431821-3lfg2r",
-        "url": "/images/project/learnify.png"
+        "url": "/images/project/Learnify.png"
       },
       "description": "Learnify is a modern frontend for an online learning platform, built with React.js, styled using TailwindCSS, and enhanced with smooth, engaging transitions via Framer Motion. It delivers a responsive, accessible, and interactive user experience optimized for learners on all devices. ",
       "techStack": ["Reactjs ", " Framer ", " TailwindCSS"],

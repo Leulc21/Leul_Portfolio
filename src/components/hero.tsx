@@ -3,10 +3,10 @@
 import Link from "next/link";
 
 import { About } from "../utils/interface";
+import LoaderWrapper from "./LoaderWrapper";
+import { ArrowUpRight } from "./ui/Icons";
 import { SlideIn, Transition } from "./ui/Transitions";
 import { TextReveal } from "./ui/Typography";
-import { ArrowUpRight } from "./ui/Icons";
-import LoaderWrapper from "./LoaderWrapper";
 
 interface HeroProps {
   about: About;
@@ -29,7 +29,7 @@ const Hero = ({ about }: HeroProps) => {
               />
             </Transition>
             <div className="py-6 flex items-center flex-col">
-              <h2 className="md:text-7xl text-4xl font-bold overflow-hidden">
+              <h2 className="md:text-7xl text-4xl font-bold overflow-hidden text-center">
                 <SlideIn>Hello! I&apos;m {about.name}</SlideIn>
               </h2>
               <h1 className="md:text-7xl text-3xl overflow-hidden">

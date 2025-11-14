@@ -3,9 +3,9 @@
     "name": "Leul Chanie",
     "title": "Software Developer",
     "subTitle": "I build mobile and web applications that deliver seamless experiences.",
-    "description": "Hello! I'm Leul Chanie, a Software Developer specializing in Next.js, React, Django, and Flutter. With three years of experience in React and a strong foundation in JavaScript, I'm currently expanding my expertise in TypeScript. I build scalable, user-friendly applications that solve real-world problems.",
+    "description": "Hello! I'm Leul Chanie, a Software Developer working across the full stack with JavaScript, TypeScript, Python, and Dart. I have 2 years of experience in the JavaScript ecosystem, specializing in frontend development with Next.js and React, and backend development using Node.js, Bun, Express, Hono, and ElysiaJS. I also build robust backend systems with Django and create mobile applications using Flutter. I focus on building scalable, user-friendly, and impactful digital products that solve real-world problems.",
     "quote": "Live the Life as you want",
-    "exp_year": "3",
+    "exp_year": "2",
     "address": "Addis Ababa , Ethiopia",
     "some_total": "90",
     "phoneNumber": "+251-921-524-559",
@@ -156,51 +156,42 @@
   "myskills": [
     {
       "SkillTitle": "Frontend Development",
-      "TechStack": "Next.js, React, JavaScript (ES6+), TypeScript (learning), Tailwind CSS, Redux",
+      "TechStack": "Next.js, React, JavaScript (ES6+), TypeScript, Tailwind CSS, shadcn/ui, Framer Motion, GSAP, Redux, Jotai, TanStack Query",
       "Strength": [
-        "Creating scalable and high-performance UIs",
-        "Responsive & accessible web designs",
-        "Optimizing frontend performance for speed and efficiency",
-        "Implementing state management with Redux and React Context",
-        "Ensuring seamless cross-browser compatibility"
+        "Building scalable and high-performance user interfaces",
+        "Creating beautiful and interactive animations using Framer Motion and GSAP",
+        "Implementing modern UI/UX with Tailwind CSS and shadcn/ui components",
+        "Advanced state management with Redux, Jotai, and TanStack Query",
+        "Optimizing frontend performance and accessibility",
+        "Building responsive, SEO-friendly, and mobile-first designs"
       ]
     },
     {
       "SkillTitle": "Backend Development",
-      "TechStack": "Django, Django REST Framework, PostgreSQL, Prisma, MongoDb,MYsql",
+      "TechStack": "Node.js, Bun, Express, Hono, ElysiaJS, Django, Django REST Framework, GraphQL, REST, tRPC, Prisma, PostgreSQL, MongoDB, MySQL, Vercel AI SDK, BetterAuth",
       "Strength": [
-        "Building scalable and secure APIs",
-        "Database design & optimization",
-        "Handling authentication & user management",
-        "Integrating third-party services and APIs",
-        "Ensuring data integrity and security"
+        "Developing high-performance backend APIs using REST, GraphQL, and tRPC",
+        "Integrating AI-powered features using Vercel AI SDK",
+        "Building secure authentication & authorization flows using BetterAuth",
+        "Designing scalable and optimized database architectures with Prisma ORM",
+        "Implementing lightweight and fast server-side logic with Bun, Hono, and ElysiaJS",
+        "Integrating microservices, cloud services, and third-party APIs",
+        "Ensuring system reliability, data validation, and high-level security"
       ]
     },
     {
       "SkillTitle": "Mobile App Development",
-      "TechStack": "Flutter, Dart, Firebase, RESTful APIs",
+      "TechStack": "Flutter, Dart, Firebase, Supabase, Hive, REST APIs",
       "Strength": [
-        "Building cross-platform mobile apps",
-        "Smooth animations & UI/UX in Flutter",
-        "State management with Provider & Riverpod",
-        "Optimizing mobile app performance and responsiveness",
-        "Integrating backend services with Firebase and REST APIs"
+        "Developing smooth and responsive cross-platform mobile applications",
+        "State management with BLoC for scalable and maintainable architecture",
+        "Implementing offline-first apps using Hive local storage",
+        "Integrating cloud backends using Firebase & Supabase",
+        "Creating rich animations and user experiences in Flutter"
       ]
     }
   ],
   "skills": [
-    {
-      "enabled": true,
-      "name": "C++",
-      "sequence": 17,
-      "percentage": 87,
-      "image": {
-        "public_id": "1706288734207-4rlz3m",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288734207-4rlz3m",
-        "_id": "65b3e661b48589dfcae187f8"
-      },
-      "_id": "65b3e661b48589dfcae187f7"
-    },
     {
       "enabled": true,
       "name": "Python",
@@ -369,6 +360,204 @@
       },
       "_id": "65b3dbeba5c8d2db7b6164bc",
       "enabled": true
+    },
+    {
+      "enabled": true,
+      "name": "Dart",
+      "sequence": 17,
+      "percentage": 85,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Flutter",
+      "sequence": 18,
+      "percentage": 88,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Prisma",
+      "sequence": 14,
+      "percentage": 90,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "tRPC",
+      "sequence": 19,
+      "percentage": 85,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "GraphQL",
+      "sequence": 20,
+      "percentage": 80,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Bun",
+      "sequence": 21,
+      "percentage": 75,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Hono",
+      "sequence": 22,
+      "percentage": 82,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "ElysiaJS",
+      "sequence": 23,
+      "percentage": 79,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Supabase",
+      "sequence": 24,
+      "percentage": 80,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Firebase",
+      "sequence": 25,
+      "percentage": 87,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Hive",
+      "sequence": 26,
+      "percentage": 85,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Framer Motion",
+      "sequence": 8,
+      "percentage": 95,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "GSAP",
+      "sequence": 9,
+      "percentage": 90,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "shadcn/ui",
+      "sequence": 10,
+      "percentage": 93,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "TanStack Query",
+      "sequence": 11,
+      "percentage": 92,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Jotai",
+      "sequence": 12,
+      "percentage": 88,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "BetterAuth",
+      "sequence": 27,
+      "percentage": 86,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
+    },
+    {
+      "enabled": true,
+      "name": "Vercel AI SDK",
+      "sequence": 28,
+      "percentage": 90,
+      "image": {
+        "public_id": "",
+        "url": "",
+        "_id": ""
+      }
     }
   ],
   "youtube": [
@@ -640,7 +829,7 @@
     {
       "name": "Mobile App Development",
       "charge": "",
-      "desc": "I craft intuitive, high-performance mobile applications that elevate your brand and keep users engaged on the go. From concept to interface, I deliver smooth, scalable solutions tailored to your needs.",
+      "desc": "I build high-performance mobile apps using Flutter, Dart, Firebase, and Supabase. With clean architecture, scalable BLoC state management, and smooth animations, I deliver fast, reliable, and engaging mobile experiences tailored to your brand.",
       "enabled": true,
       "_id": "65f1fd690556c3f887e9d94a",
       "image": {
@@ -651,7 +840,7 @@
     {
       "name": "Web App Development",
       "charge": "",
-      "desc": "I build custom web applications tailored to your business goals fast, scalable, and user-focused. From landing pages to complex dashboards, I turn ideas into interactive, real-world solutions.",
+      "desc": "I develop full-stack web applications using Next.js, React, Node.js, Bun, Django, and modern API technologies like REST, GraphQL, and tRPC. Whether it's dashboards, SaaS apps, AI-powered systems, or custom business tools, I deliver scalable, secure, and production-ready solutions.",
       "image": {
         "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
         "url": "/images/project/Adwa.png"
@@ -662,7 +851,7 @@
     {
       "name": "UI/UX Solutions",
       "charge": "",
-      "desc": "I design modern, intuitive interfaces that balance aesthetics with usability. Every interaction is crafted to drive engagement and ensure a seamless user experience.",
+      "desc": "I design modern, user-focused interfaces using shadcn/ui, Tailwind, and best-in-class UX principles. Every page, component, and flow is crafted to deliver clarity, beauty, and seamless user interaction across all devices.",
       "image": {
         "public_id": "1706290914024-725ytf",
         "url": "/images/project/urban.png",
@@ -672,9 +861,9 @@
       "enabled": true
     },
     {
-      "name": "Web Animation ",
+      "name": "Web Animation",
       "charge": "",
-      "desc": "I bring interfaces to life with smooth animations and reusable components. Using GSAP, Framer Motion, and modern JavaScript, I build interactive frontends that captivate and perform.",
+      "desc": "I create stunning, interactive web animations using GSAP, Framer Motion, and powerful JavaScript animation pipelines. From micro-interactions to full-page transitions, I bring digital experiences to life with smooth, high-performance motion.",
       "image": {
         "public_id": "portfolio3/1710357668346-ke8kgt.jpeg",
         "url": "/images/project/anim.png"
@@ -683,7 +872,6 @@
       "enabled": true
     }
   ],
-
   "testimonials": [
     {
       "image": {

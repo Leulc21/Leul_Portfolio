@@ -573,8 +573,8 @@
   ],
   "projects": [
     {
-      "liveurl": "#",
-      "githuburl": "#",
+      "liveurl": "https://urban-build-sktw.vercel.app",
+      "githuburl": "https://github.com/Leulc21/Urban_Build/tree/main",
       "title": "Urban Build",
       "sequence": 14,
       "image": {
